@@ -1,0 +1,9 @@
+export const grey = '#e1e1e1';
+export const transparent = 'transparent';
+export const bluegreyS = '#20232a';
+export const bluegreyR = 'black';
+export const white = '#d9e3f0';
+export const black = '#61dafb';
+export const blueBack = '#6eaa9f';
+export const whiteR = 'white';
+export const darkblue = '#11082e';
